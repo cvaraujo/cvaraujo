@@ -18,6 +18,4 @@
 </div>
 
 ##
-<div>
-![Snake animation](https://github.com/cvaraujo/cvaraujo/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/cvaraujo/carlos-araujo/tree/output/github-contribution-grid-snake.svg)
