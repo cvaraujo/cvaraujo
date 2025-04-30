@@ -2,13 +2,13 @@
 
 <div>
 
-:ninja: Senior Optimization Analyst at *[KaBuM!](https://www.kabum.com.br/)*.
-> _Working with routing, grouping, and packing opportunities for Warehouse optimization;_
-> _Developing mainly in **Python**;_
+:ninja: Senior Optimization Analyst at *[Mercado Livre](https://www.mercadolivre.com.br/)*.
+> _Working with routing, stock management and opportunities for Warehouse Optimization;_
+> _Developing mainly in **Golang**, **C++** and **Python**;_
 
 🎓 MSc. in Computer Science and Ph.D. Candidate at *[Unicamp](https://ic.unicamp.br/)*!
 > _Woking with **Mathematical Modeling**, **Heuristics**, **Simulation**, and **Stochastic Optimization**;_
-> _Developing mainly in **C++**, **Python**, **R**, and **GAMA Language**;_
+> _Developing mainly in **C++**, **Julia**, **Python** and **GAMA Language**;_
 
 🐝 Business Analyst at *[Arapuá](https://github.com/arapua)*
 > _Addicted to learning new technologies;_
