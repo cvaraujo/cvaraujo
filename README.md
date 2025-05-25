@@ -1,46 +1,50 @@
-<h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif?raw=true" width="30"> Wassuuup, i'm Carlos Araújo! </h2>
+## 👋 Wassup, I'm Carlos Araújo!
 
-<div>
+### 🙆 About Me
 
-:ninja: Senior Optimization Analyst at *[Mercado Livre](https://www.mercadolivre.com.br/)*.
-> _Working with routing, stock management and opportunities for Warehouse Optimization;_
-> _Developing mainly in **Golang**, **C++** and **Python**;_
+📦 **Senior Optimization Analyst** at [Mercado Livre](https://www.mercadolivre.com.br/)
 
-🎓 MSc. in Computer Science and Ph.D. Candidate at *[Unicamp](https://ic.unicamp.br/)*!
-> _Woking with **Mathematical Modeling**, **Heuristics**, **Simulation**, and **Stochastic Optimization**;_
-> _Developing mainly in **C++**, **Julia**, **Python** and **GAMA Language**;_
+* Focused on routing, stock management, and warehouse optimization
+* Daily development in **Golang**, **C++**, and **Python**
 
-🐝 Business Analyst at *[Arapuá](https://github.com/arapua)*
-> _Addicted to learning new technologies;_
-</div>
+🎓 **M.Sc. in Computer Science** and **Ph.D. Candidate** at [Unicamp](https://ic.unicamp.br/)
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-conect.gif?raw=true" width="30"> Contact me </h2>
+* Research in **Mathematical Modeling**, **Heuristics**, **Simulation**, and **Stochastic Optimization**
+* Working with **C++**, **Julia**, **Python**, and **GAMA Language**
 
-<div align="center">
-<a href="https://www.ic.unicamp.br/~ra230261/" target="_blank"><img src="https://img.shields.io/badge/-WebPage-%23E4405F?style=for-the-badge&logo=webpage&logoColor=white" target="_blank"></a>            
-<a href = "mailto:carlosvdaraujo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-ara%C3%BAjo-1878b0121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+🐝 **Business Analyst** at [Arapuá](https://github.com/arapua)
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-muybueno.gif?raw=true" width="30"> Some stats </h2>
+* Passionate about learning and applying new technologies to real-world problems
 
-<div align="center">
-  <a href="https://github.com/cvaraujo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cvaraujo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f7df1e&icon_color=d14836&text_color=f7df1e&bg_color=22272e" alt="Carlos's Github Stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaraujo&layout=compact&title_color=f7df1e&text_color=f7df1e&bg_color=22272e"/>
-</div>
+---
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-ok.gif?raw=true" width="30"> Coding with </h2>
+### 🚀 Let's Collaborate
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+If you are working on simulation or optimization, I'm always open to discussions, ideas, and research collaboration. Let's build something meaningful together!
+
+---
+
+### 🌐 Contacts
+
+<p align="center">
+  <a href="https://www.ic.unicamp.br/~ra230261/" target="_blank">
+    <img src="https://img.shields.io/badge/-WebPage-%23E4405F?style=for-the-badge&logo=webpage&logoColor=white" />
+  </a>
+  <a href="mailto:carlosvdaraujo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-ara%C3%BAjo-1878b0121/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cvaraujo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f7df1e&icon_color=d14836&text_color=f7df1e&bg_color=22272e" alt="Carlos's Github Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaraujo&layout=compact&title_color=f7df1e&text_color=f7df1e&bg_color=22272e" />
+</p>
+
+---
