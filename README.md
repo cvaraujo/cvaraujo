@@ -39,12 +39,3 @@ If you are working on simulation or optimization, I'm always open to discussions
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cvaraujo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f7df1e&icon_color=d14836&text_color=f7df1e&bg_color=22272e" alt="Carlos's Github Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvaraujo&layout=compact&title_color=f7df1e&text_color=f7df1e&bg_color=22272e" />
-</p>
-
----
