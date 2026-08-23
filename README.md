@@ -7,7 +7,7 @@
 * Focused on routing, stock management, and warehouse optimization
 * Daily development in **Golang**, **C++**, and **Python**
 
-🎓 **M.Sc. in Computer Science** and **Ph.D. Candidate** at [Unicamp](https://ic.unicamp.br/)
+🎓 **Ph.D. in Computer Science** at [Unicamp](https://ic.unicamp.br/)
 
 * Research in **Mathematical Modeling**, **Heuristics**, **Simulation**, and **Stochastic Optimization**
 * Working with **C++**, **Julia**, **Python**, and **GAMA Language**
